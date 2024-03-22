@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nethum Menuja
 - 👀 I’m interested in Web development and UI/UX
-- 🌱 I’m currently learning in University
+- 🌱 I’m currently an undergraduate Software Engineer 
 - 💞️ I’m looking to collaborate on HTML and Python projects
-- 📫 Reach me by LinkedIN 
+- 📫 Reach me by nethumabayasiriwardana@gmail.com
 
 
 <!---
